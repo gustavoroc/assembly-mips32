@@ -1,17 +1,17 @@
 # MIPS32 Repository
 
-Este repositório contém exemplos e projetos em assembly MIPS32 para fins acadêmicos. Os códigos aqui presentes são destinados a auxiliar no aprendizado e prática da linguagem assembly MIPS32.
+This repository contains MIPS32 assembly code examples and projects for academic purposes. The codes provided here are intended to assist in learning and practicing the MIPS32 assembly language.
 
-## Estrutura do Repositório
+## Repository Structure
 
-O repositório está organizado da seguinte forma:
+The repository is organized as follows:
 
-- `exemplos/`: Esta pasta contém exemplos de códigos em MIPS32 que abordam diferentes aspectos da linguagem, como operações aritméticas, manipulação de memória, entrada/saída, entre outros. Cada exemplo é fornecido com comentários explicativos para facilitar a compreensão.
+- `examples/`: This folder contains code examples in MIPS32 that cover different aspects of the language, such as arithmetic operations, memory manipulation, input/output, among others. Each example is provided with explanatory comments to facilitate understanding.
 
-- `projetos/`: Nesta pasta, você encontrará projetos maiores em MIPS32, que podem envolver a implementação de algoritmos ou a resolução de problemas específicos. Cada projeto possui sua própria estrutura e descrição.
+- `projects/`: In this folder, you will find larger MIPS32 projects that may involve algorithm implementations or solving specific problems. Each project has its own structure and description.
 
-- `recursos/`: Aqui estão disponíveis recursos adicionais, como documentos, tutoriais, referências e material de estudo relacionado à linguagem MIPS32. Esses recursos podem ajudar a aprofundar o conhecimento sobre o assembly MIPS32.
+- `resources/`: Here you will find additional resources such as documents, tutorials, references, and study materials related to the MIPS32 assembly language. These resources can help deepen your knowledge of MIPS32 assembly.
 
-## Contribuição
+## Contribution
 
-Contribuições para este repositório são bem-vindas! Se você tiver exemplos adicionais, projetos interessantes ou recursos relevantes para compartilhar, sinta-se à vontade para fazer um pull request. Certifique-se de adicionar uma descrição clara e comentários explicativos para facilitar a compreensão dos códigos e recursos fornecidos.
+Contributions to this repository are welcome! If you have additional examples, interesting projects, or relevant resources to share, feel free to make a pull request. Please make sure to add clear descriptions and explanatory comments to facilitate understanding of the provided code and resources.
